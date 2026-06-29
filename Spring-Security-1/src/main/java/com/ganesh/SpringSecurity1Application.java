@@ -11,3 +11,4 @@ public class SpringSecurity1Application {
 	}
 
 }
+ 
